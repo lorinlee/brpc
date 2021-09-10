@@ -1,6 +1,7 @@
 [中文版](README_cn.md)
 
 [![Build Status](https://api.travis-ci.com/apache/incubator-brpc.svg?branch=master)](https://travis-ci.com/github/apache/incubator-brpc)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Florinlee%2Fbrpc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Florinlee%2Fbrpc?ref=badge_shield)
 
 # ![brpc](docs/images/logo.png)
 
@@ -104,3 +105,7 @@ Please refer to [here](CONTRIBUTING.md).
 # Feedback and Getting involved
 * Report bugs, ask questions or give suggestions by [Github Issues](https://github.com/apache/incubator-brpc/issues)
 * Subscribe mailing list(dev-subscribe@brpc.apache.org) to get updated with the project
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Florinlee%2Fbrpc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Florinlee%2Fbrpc?ref=badge_large)
